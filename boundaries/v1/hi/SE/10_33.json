@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Sweden","ISO3166-1-Alpha-3":"SWE","ISO3166-1-Alpha-2":"SE"},"geometry":{"type":"Polygon","coordinates":[[[20.0,66.0],[20.0,68.0],[22.0,68.0],[22.0,66.0],[20.0,66.0]]]}}]}

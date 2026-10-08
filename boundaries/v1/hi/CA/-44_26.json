@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Canada","ISO3166-1-Alpha-3":"CAN","ISO3166-1-Alpha-2":"CA"},"geometry":{"type":"Polygon","coordinates":[[[-88.0,52.0],[-88.0,54.0],[-86.0,54.0],[-86.0,52.0],[-88.0,52.0]]]}}]}

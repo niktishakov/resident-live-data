@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Mexico","ISO3166-1-Alpha-3":"MEX","ISO3166-1-Alpha-2":"MX"},"geometry":{"type":"Polygon","coordinates":[[[-99.9984,28.00632],[-99.99651,28.00195],[-99.99545,28.00036],[-99.99512,28.0],[-100.0,28.0],[-100.0,28.01049],[-99.9984,28.00632]]]}}]}

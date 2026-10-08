@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Italy","ISO3166-1-Alpha-3":"ITA","ISO3166-1-Alpha-2":"IT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[7.99482,46.00174],[8.0,46.00774],[8.0,46.0],[7.99339,46.0],[7.99482,46.00174]]]]}}]}

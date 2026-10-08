@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Norway","ISO3166-1-Alpha-3":"NOR","ISO3166-1-Alpha-2":"NO"},"geometry":{"type":"Polygon","coordinates":[[[10.0,60.0],[10.0,62.0],[12.0,62.0],[12.0,60.0],[10.0,60.0]]]}}]}

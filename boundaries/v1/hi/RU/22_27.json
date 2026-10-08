@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Russia","ISO3166-1-Alpha-3":"RUS","ISO3166-1-Alpha-2":"RU"},"geometry":{"type":"Polygon","coordinates":[[[44.0,54.0],[44.0,56.0],[46.0,56.0],[46.0,54.0],[44.0,54.0]]]}}]}

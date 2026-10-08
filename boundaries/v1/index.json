@@ -1,5 +1,9 @@
 {
  "version": 1,
+ "levels": {
+  "lo": "1 km interval, whole country",
+  "hi": "30 m interval, 2.0-degree tiles"
+ },
  "countries": [
   "AD",
   "AE",

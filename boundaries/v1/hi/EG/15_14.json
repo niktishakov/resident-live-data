@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Egypt","ISO3166-1-Alpha-3":"EGY","ISO3166-1-Alpha-2":"EG"},"geometry":{"type":"Polygon","coordinates":[[[30.0,28.0],[30.0,30.0],[32.0,30.0],[32.0,28.0],[30.0,28.0]]]}}]}

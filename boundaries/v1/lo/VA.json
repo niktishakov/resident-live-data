@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Vatican","ISO3166-1-Alpha-3":"VAT","ISO3166-1-Alpha-2":"VA","tileSize":2.0,"tiles":[[6,20]],"source":"geoBoundaries CGAZ"},"geometry":{"type":"Polygon","coordinates":[[[12.4538,41.9068],[12.4479,41.901],[12.4563,41.9004],[12.4538,41.9068]]]}}]}

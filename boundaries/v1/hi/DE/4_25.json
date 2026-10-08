@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Germany","ISO3166-1-Alpha-3":"DEU","ISO3166-1-Alpha-2":"DE"},"geometry":{"type":"Polygon","coordinates":[[[8.0,50.0],[8.0,52.0],[10.0,52.0],[10.0,50.0],[8.0,50.0]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Ethiopia","ISO3166-1-Alpha-3":"ETH","ISO3166-1-Alpha-2":"ET"},"geometry":{"type":"Polygon","coordinates":[[[40.0,6.0],[40.0,8.0],[42.0,8.0],[42.0,6.0],[40.0,6.0]]]}}]}

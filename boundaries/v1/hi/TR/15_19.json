@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Turkey","ISO3166-1-Alpha-3":"TUR","ISO3166-1-Alpha-2":"TR"},"geometry":{"type":"Polygon","coordinates":[[[30.0,38.0],[30.0,40.0],[32.0,40.0],[32.0,38.0],[30.0,38.0]]]}}]}

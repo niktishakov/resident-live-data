@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"China","ISO3166-1-Alpha-3":"CHN","ISO3166-1-Alpha-2":"CN"},"geometry":{"type":"Polygon","coordinates":[[[100.0,28.0],[100.0,30.0],[102.0,30.0],[102.0,28.0],[100.0,28.0]]]}}]}

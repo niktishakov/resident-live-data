@@ -2,13 +2,20 @@
 
 Static data the Resident Live app downloads at runtime. Served by GitHub Pages:
 
-    https://niktishakov.github.io/resident-live-data/boundaries/v1/<ISO2>.json
+    https://niktishakov.github.io/resident-live-data/boundaries/v1/lo/<ISO2>.json
 
 ## boundaries/v1
 
-One GeoJSON `FeatureCollection` per country, keyed by ISO 3166-1 alpha-2, plus
-`index.json` listing the codes. Properties: `name`, `ISO3166-1-Alpha-2`,
-`ISO3166-1-Alpha-3`, `source`.
+Two levels of detail per country, keyed by ISO 3166-1 alpha-2:
+
+- `lo/<ISO2>.json` — the whole country at a 1 km interval, for when it fits on
+  screen. Its feature's properties list the close-up cells: `tileSize` (degrees)
+  and `tiles` (`[x, y]`, the cell's south-west corner divided by `tileSize`).
+- `hi/<ISO2>/<x>_<y>.json` — one cell at a 30 m interval, clipped to the cell's
+  square. The clip adds edges along the cell's sides that are not a border.
+
+`index.json` lists the countries. Properties: `name`, `ISO3166-1-Alpha-2`,
+`ISO3166-1-Alpha-3`.
 
 - Source: [geoBoundaries CGAZ ADM0](https://www.geoboundaries.org) — Runfola et al.,
   *geoBoundaries: A global database of political administrative boundaries*,

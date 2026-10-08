@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Somalia","ISO3166-1-Alpha-3":"SOM","ISO3166-1-Alpha-2":"SO"},"geometry":{"type":"Polygon","coordinates":[[[42.0,2.0],[42.0,4.0],[44.0,4.0],[44.0,2.0],[42.0,2.0]]]}}]}

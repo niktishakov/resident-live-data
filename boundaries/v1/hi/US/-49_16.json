@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"United States of America","ISO3166-1-Alpha-3":"USA","ISO3166-1-Alpha-2":"US"},"geometry":{"type":"Polygon","coordinates":[[[-98.0,32.0],[-98.0,34.0],[-96.0,34.0],[-96.0,32.0],[-98.0,32.0]]]}}]}

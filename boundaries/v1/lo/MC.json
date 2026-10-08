@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Monaco","ISO3166-1-Alpha-3":"MCO","ISO3166-1-Alpha-2":"MC","tileSize":2.0,"tiles":[[3,21]],"source":"geoBoundaries CGAZ"},"geometry":{"type":"Polygon","coordinates":[[[7.4183,43.7246],[7.4391,43.7491],[7.4117,43.7343],[7.4183,43.7246]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Australia","ISO3166-1-Alpha-3":"AUS","ISO3166-1-Alpha-2":"AU"},"geometry":{"type":"Polygon","coordinates":[[[142.0,-18.0],[142.0,-16.0],[144.0,-16.0],[144.0,-18.0],[142.0,-18.0]]]}}]}
